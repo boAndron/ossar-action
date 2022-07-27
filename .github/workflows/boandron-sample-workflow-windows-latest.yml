@@ -1,5 +1,5 @@
 # sample-workflow-windows-latest 
-# docs are in the repo
+# docs are in the  repo
 
 name: OSSAR self-hosted
 on: push
